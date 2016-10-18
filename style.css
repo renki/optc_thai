@@ -150,7 +150,7 @@ body {
 }
 
 .video-background-default-image {
-  background:url(img/cover.jpg);
+  background:url(img/cover.png);
   background-repeat:no-repeat;
   background-position:center center;
   background-size:cover;
